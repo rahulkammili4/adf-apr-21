@@ -2,7 +2,7 @@
 	"name": "inputCSV",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "lsStorage",
+			"referenceName": "lkstost",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
